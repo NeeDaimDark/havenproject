@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea73955e2bc588942914e4e75f0e7221, type: 3}
+  m_Name: Yellow_Potion
+  m_EditorClassIdentifier: 
+  id: 2
+  itemName: Yellow Pot
+  value: 30
+  icon: {fileID: 21300020, guid: bf863c1f5968393428ffda61834c097c, type: 3}
+  itemType: 1
